@@ -7,3 +7,12 @@
 # git push or pull (following)
 # %%
 print(1+1)
+
+
+# %%
+def modify(code):
+    return code + 1
+# %%
+# %%
+modify(1)
+# %%
