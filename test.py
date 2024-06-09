@@ -5,6 +5,9 @@
 # git commit -m "Add"
 # git push -u origin main
 # git push or pull (following)
+
+# %%
+
 # %%
 print(1+1)
 
